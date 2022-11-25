@@ -1,6 +1,7 @@
 {
   "expo": {
     "name": "SnjHotApp",
+    "description": "Most right temperature!",
     "slug": "SnjHotApp",
     "version": "1.0.0",
     "orientation": "portrait",
@@ -13,7 +14,8 @@
       "backgroundColor": "#ffffff"
     },
     "updates": {
-      "fallbackToCacheTimeout": 0
+      "fallbackToCacheTimeout": 0,
+      "url": "https://u.expo.dev/948e3591-9231-4eaa-bbe8-16e2fdf6fa51"
     },
     "assetBundlePatterns": [
       "**/*"
@@ -22,6 +24,8 @@
       "supportsTablet": true
     },
     "android": {
+      "package": "com.snjcode.snjhotapp",
+      "softwareKeyboardLayoutMode": "pan",
       "adaptiveIcon": {
         "foregroundImage": "./assets/images/adaptive-icon.png",
         "backgroundColor": "#ffffff"
@@ -29,6 +33,14 @@
     },
     "web": {
       "favicon": "./assets/images/favicon.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "948e3591-9231-4eaa-bbe8-16e2fdf6fa51"
+      }
+    },
+    "runtimeVersion": {
+      "policy": "sdkVersion"
     }
   }
 }
