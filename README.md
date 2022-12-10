@@ -1,4 +1,4 @@
-# `-=SnjApp=-`
+# `-=SnjHotApp=-`
 
 ### React Native Cross-platform Application
 
