@@ -2,6 +2,8 @@
 
 ### React Native Cross-platform Application
 
+![Snj-CSV-File-Reader](https://github.com/snj-shvchnk/Snj-HotApp-Expo-ReactNative/blob/master/app_screenshort.jpg?raw=true)
+
 ## Instalation:
 
     sudo npm i -g expo-cli
